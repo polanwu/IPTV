@@ -205,15 +205,15 @@ http://iptv.8t.cx:8180/udp/239.3.1.243:8000
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京卡酷少儿.png" group-title="地方频道",卡酷少儿
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
-#EXTINF:-1 tvg-id="朝阳融媒" tvg-name="朝阳融媒" tvg-logo="https://epg.112114.xyz/logo/朝阳融媒.png" group-title="地方频道",朝阳融媒
+#EXTINF:-1 tvg-id="朝阳融媒" tvg-name="朝阳融媒" tvg-logo="https://live.fanmingming.com/tv/朝阳融媒.png" group-title="地方频道",朝阳融媒
 http://1.202.102.192:8012/rtp/239.3.1.163:8001
-#EXTINF:-1 tvg-id="通州融媒" tvg-name="通州融媒" tvg-logo="https://epg.112114.xyz/logo/通州融媒.png" group-title="地方频道",通州融媒
+#EXTINF:-1 tvg-id="通州融媒" tvg-name="通州融媒" tvg-logo="https://live.fanmingming.com/tv/通州融媒.png" group-title="地方频道",通州融媒
 http://1.202.102.192:8012/rtp/239.3.1.221:8001
-#EXTINF:-1 tvg-id="密云电视台" tvg-name="密云电视台" tvg-logo="https://epg.112114.xyz/logo/密云电视台.png" group-title="地方频道",密云电视台
+#EXTINF:-1 tvg-id="密云电视台" tvg-name="密云电视台" tvg-logo="https://live.fanmingming.com/tv/密云电视台.png" group-title="地方频道",密云电视台
 http://1.202.102.192:8012/rtp/239.3.1.154:8001
-#EXTINF:-1 tvg-id="房山电视台" tvg-name="房山电视台" tvg-logo="https://epg.112114.xyz/logo/房山电视台.png" group-title="地方频道",房山电视台
+#EXTINF:-1 tvg-id="房山电视台" tvg-name="房山电视台" tvg-logo="https://live.fanmingming.com/tv/房山电视台.png" group-title="地方频道",房山电视台
 http://1.202.102.192:8012/rtp/239.3.1.96:8001
-#EXTINF:-1 tvg-id="延庆电视台" tvg-name="延庆电视台" tvg-logo="https://epg.112114.xyz/logo/延庆电视台.png" group-title="地方频道",延庆电视台
+#EXTINF:-1 tvg-id="延庆电视台" tvg-name="延庆电视台" tvg-logo="https://live.fanmingming.com/tv/延庆电视台.png" group-title="地方频道",延庆电视台
 http://1.202.102.192:8012/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CHC动作电影.png" group-title="数字频道",动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
