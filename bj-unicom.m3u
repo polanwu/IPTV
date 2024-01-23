@@ -111,21 +111,25 @@ http://192.168.50.1:4025/rtp/239.3.1.41:8140
 http://192.168.50.1:4025/rtp/239.3.1.44:8184
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
 http://192.168.50.1:4025/rtp/239.3.1.43:8176
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV文艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",文艺
 http://192.168.50.1:4025/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV纪实科教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",纪实科教
 http://192.168.50.1:4025/rtp/239.3.1.115:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方"影视
 http://192.168.50.1:4025/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV财经
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",财经
 http://192.168.50.1:4025/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV体育休闲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",体育休闲
 http://192.168.50.1:4025/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",青年
+http://192.168.50.1:4025/rtp/239.3.1.232:8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",生活
 http://192.168.50.1:4025/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",新闻
 http://192.168.50.1:4025/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV卡酷少儿
+#EXTINF:-1tvg-id="" tvg-name="" tvg-logo="" group-title="地方",国际频道高清
+http://192.168.50.1:4025/rtp/239.3.1.235:8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",卡酷少儿
 http://192.168.50.1:4025/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",朝阳融媒
 http://192.168.50.1:4025/rtp/239.3.1.163:8001
@@ -165,20 +169,8 @@ http://192.168.50.1:4025/rtp/239.3.1.188:8001
 http://192.168.50.1:4025/rtp/239.3.1.57:8152
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 http://192.168.50.1:4025/rtp/239.3.1.58:8156
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",BRTV体育休闲4K HDR
-http://192.168.50.1:4025/rtp/239.3.1.120:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",BRTV体育休闲4K SDR
-http://192.168.50.1:4025/rtp/239.3.1.121:8000
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV-16 4K
-http://192.168.50.1:4025/rtp/239.3.1.183:8001
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="4K",4K超清
-http://192.168.50.1:4025/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K
 http://192.168.50.1:4025/rtp/239.3.1.236:2000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",体育赛事高清
-http://192.168.50.1:4025/rtp/239.3.1.157:8176
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="4K",4K测试
-http://192.168.50.1:4025/rtp/239.3.1.104:8001
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K超高清
 http://192.168.50.1:4025/rtp/239.3.1.244:2000
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K超高清HDR
