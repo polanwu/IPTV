@@ -314,7 +314,7 @@ http://192.168.50.1:4026/rtp/239.3.1.196:9012
 http://cfss.cc/cdn/hy/11279251.m3u8
 #EXTINF:-1 tvg-name="成龙电影",group-title="影视轮播",成龙电影
 http://cfss.cc/cdn/hy/11342386.m3u8
-#EXTINF:-1 tvg-name="周星驰电影",group-title="影视轮播",成龙电影
+#EXTINF:-1 tvg-name="周星驰电影",group-title="影视轮播",周星驰电影
 http://cfss.cc/cdn/hy/11336587.m3u8
 #EXTINF:-1 tvg-name="刘德华电影",group-title="影视轮播",刘德华电影
 http://cfss.cc/cdn/hy/11342424.m3u8
