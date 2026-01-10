@@ -131,7 +131,7 @@ http://192.168.50.1:4026/rtp/239.3.1.113:3003
 #EXTINF:-1 tvg-name="江苏卫视",group-title="卫视频道",江苏卫视[高清]
 http://192.168.50.1:4026/rtp/239.3.1.135:8028
 #EXTINF:-1 tvg-name="深圳卫视",group-title="4K超清",深圳卫视[4K]
-http://192.168.50.1:4026/rtp/239.3.1.202:2000
+http://192.168.50.1:4026/rtp/239.3.1.28:2000
 #EXTINF:-1 tvg-name="深圳卫视",group-title="卫视频道",深圳卫视[高清]
 http://192.168.50.1:4026/rtp/239.3.1.134:8020
 #EXTINF:-1 tvg-name="广东卫视",group-title="4K超清",广东卫视[4K]
@@ -427,4 +427,5 @@ http://iptv.jxpan.vip:18888/aio/douyu/4246519
 http://iptv.jxpan.vip:18888/aio/douyu/74374
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/斗鱼.png" group-title="影视轮播",斗鱼港剧
 http://iptv.jxpan.vip:18888/aio/douyu/5061550
+
 
